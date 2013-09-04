@@ -1,0 +1,14 @@
+Marie,W,Kirschbaum,42,Boone,NC
+James,E,Dillinger,63,Brockton,MA
+Jimmy,J,Bush,84,Richmond,VA
+Hugo,A,Biron,74,Boca Raton,FL
+Johnny,F,Moore,85,Dallas,TX
+Joel,K,Rosa,52,West Allis,WI
+Kay,A,Ridenour,27,Brooklyn,NY
+Reggie,S,Crouch,77,Albuquerque,NM
+Kacey,J,Wilson,64,Tyler,TX
+Cornelia,W,Sanchez,57,Carpinteria,CA
+Gladys,M,Fillion,58,Front Royal,VA
+Kacey,J,Wilson,14,Tyler,TX
+Cornelia,W,Sancshez,57,Carpinteria,CA
+Gladys,M,Filliosn,58,Front Royal,VA
